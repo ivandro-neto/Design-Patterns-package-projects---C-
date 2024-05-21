@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivand\\source\\repos\\ZooApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{142230C6-EF4E-405E-86B5-5A4FAA2C3AE2}|ZooApp\\ZooApp.csproj|c:\\users\\ivand\\source\\repos\\zooapp\\zooapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142230C6-EF4E-405E-86B5-5A4FAA2C3AE2}|ZooApp\\ZooApp.csproj|solutionrelative:zooapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivand\\source\\repos\\ZooApp\\ZooApp\\Program.cs",
+              "RelativeDocumentMoniker": "ZooApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ivand\\source\\repos\\ZooApp\\ZooApp\\Program.cs",
+              "RelativeToolTip": "ZooApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:15:25.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\ivand\source\repos\LoginSystem\LoginSystem\obj\Debug\net8.0\LoginSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\source\repos\LoginSystem\LoginSystem\obj\Debug\net8.0\LoginSystem.AssemblyInfoInputs.cache
+C:\Users\ivand\source\repos\LoginSystem\LoginSystem\obj\Debug\net8.0\LoginSystem.AssemblyInfo.cs
+C:\Users\ivand\source\repos\LoginSystem\LoginSystem\obj\Debug\net8.0\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\ivand\source\repos\LoginSystem\LoginSystem\bin\Debug\net8.0\LoginSystem.exe
+C:\Users\ivand\source\repos\LoginSystem\LoginSystem\bin\Debug\net8.0\LoginSystem.deps.json
+C:\Users\ivand\source\repos\LoginSystem\LoginSystem\bin\Debug\net8.0\LoginSystem.runtimeconfig.json
+C:\Users\ivand\source\repos\LoginSystem\LoginSystem\bin\Debug\net8.0\LoginSystem.dll
+C:\Users\ivand\source\repos\LoginSystem\LoginSystem\bin\Debug\net8.0\LoginSystem.pdb
+C:\Users\ivand\source\repos\LoginSystem\LoginSystem\obj\Debug\net8.0\LoginSystem.dll
+C:\Users\ivand\source\repos\LoginSystem\LoginSystem\obj\Debug\net8.0\refint\LoginSystem.dll
+C:\Users\ivand\source\repos\LoginSystem\LoginSystem\obj\Debug\net8.0\LoginSystem.pdb
+C:\Users\ivand\source\repos\LoginSystem\LoginSystem\obj\Debug\net8.0\LoginSystem.genruntimeconfig.cache
+C:\Users\ivand\source\repos\LoginSystem\LoginSystem\obj\Debug\net8.0\ref\LoginSystem.dll

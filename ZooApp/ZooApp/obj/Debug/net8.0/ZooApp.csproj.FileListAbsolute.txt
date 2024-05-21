@@ -1,0 +1,14 @@
+C:\Users\ivand\source\repos\ZooApp\ZooApp\bin\Debug\net8.0\ZooApp.exe
+C:\Users\ivand\source\repos\ZooApp\ZooApp\bin\Debug\net8.0\ZooApp.deps.json
+C:\Users\ivand\source\repos\ZooApp\ZooApp\bin\Debug\net8.0\ZooApp.runtimeconfig.json
+C:\Users\ivand\source\repos\ZooApp\ZooApp\bin\Debug\net8.0\ZooApp.dll
+C:\Users\ivand\source\repos\ZooApp\ZooApp\bin\Debug\net8.0\ZooApp.pdb
+C:\Users\ivand\source\repos\ZooApp\ZooApp\obj\Debug\net8.0\ZooApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\source\repos\ZooApp\ZooApp\obj\Debug\net8.0\ZooApp.AssemblyInfoInputs.cache
+C:\Users\ivand\source\repos\ZooApp\ZooApp\obj\Debug\net8.0\ZooApp.AssemblyInfo.cs
+C:\Users\ivand\source\repos\ZooApp\ZooApp\obj\Debug\net8.0\ZooApp.csproj.CoreCompileInputs.cache
+C:\Users\ivand\source\repos\ZooApp\ZooApp\obj\Debug\net8.0\ZooApp.dll
+C:\Users\ivand\source\repos\ZooApp\ZooApp\obj\Debug\net8.0\refint\ZooApp.dll
+C:\Users\ivand\source\repos\ZooApp\ZooApp\obj\Debug\net8.0\ZooApp.pdb
+C:\Users\ivand\source\repos\ZooApp\ZooApp\obj\Debug\net8.0\ZooApp.genruntimeconfig.cache
+C:\Users\ivand\source\repos\ZooApp\ZooApp\obj\Debug\net8.0\ref\ZooApp.dll

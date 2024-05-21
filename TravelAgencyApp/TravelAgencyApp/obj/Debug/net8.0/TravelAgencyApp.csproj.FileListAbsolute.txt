@@ -1,0 +1,14 @@
+C:\Users\ivand\Documents\Project\Own Projects\C Sharp\Learning\TravelAgencyApp\TravelAgencyApp\bin\Debug\net8.0\TravelAgencyApp.exe
+C:\Users\ivand\Documents\Project\Own Projects\C Sharp\Learning\TravelAgencyApp\TravelAgencyApp\bin\Debug\net8.0\TravelAgencyApp.deps.json
+C:\Users\ivand\Documents\Project\Own Projects\C Sharp\Learning\TravelAgencyApp\TravelAgencyApp\bin\Debug\net8.0\TravelAgencyApp.runtimeconfig.json
+C:\Users\ivand\Documents\Project\Own Projects\C Sharp\Learning\TravelAgencyApp\TravelAgencyApp\bin\Debug\net8.0\TravelAgencyApp.dll
+C:\Users\ivand\Documents\Project\Own Projects\C Sharp\Learning\TravelAgencyApp\TravelAgencyApp\bin\Debug\net8.0\TravelAgencyApp.pdb
+C:\Users\ivand\Documents\Project\Own Projects\C Sharp\Learning\TravelAgencyApp\TravelAgencyApp\obj\Debug\net8.0\TravelAgencyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\Documents\Project\Own Projects\C Sharp\Learning\TravelAgencyApp\TravelAgencyApp\obj\Debug\net8.0\TravelAgencyApp.AssemblyInfoInputs.cache
+C:\Users\ivand\Documents\Project\Own Projects\C Sharp\Learning\TravelAgencyApp\TravelAgencyApp\obj\Debug\net8.0\TravelAgencyApp.AssemblyInfo.cs
+C:\Users\ivand\Documents\Project\Own Projects\C Sharp\Learning\TravelAgencyApp\TravelAgencyApp\obj\Debug\net8.0\TravelAgencyApp.csproj.CoreCompileInputs.cache
+C:\Users\ivand\Documents\Project\Own Projects\C Sharp\Learning\TravelAgencyApp\TravelAgencyApp\obj\Debug\net8.0\TravelAgencyApp.dll
+C:\Users\ivand\Documents\Project\Own Projects\C Sharp\Learning\TravelAgencyApp\TravelAgencyApp\obj\Debug\net8.0\refint\TravelAgencyApp.dll
+C:\Users\ivand\Documents\Project\Own Projects\C Sharp\Learning\TravelAgencyApp\TravelAgencyApp\obj\Debug\net8.0\TravelAgencyApp.pdb
+C:\Users\ivand\Documents\Project\Own Projects\C Sharp\Learning\TravelAgencyApp\TravelAgencyApp\obj\Debug\net8.0\TravelAgencyApp.genruntimeconfig.cache
+C:\Users\ivand\Documents\Project\Own Projects\C Sharp\Learning\TravelAgencyApp\TravelAgencyApp\obj\Debug\net8.0\ref\TravelAgencyApp.dll

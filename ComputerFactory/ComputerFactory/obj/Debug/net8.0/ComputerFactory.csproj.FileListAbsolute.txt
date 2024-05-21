@@ -1,0 +1,14 @@
+C:\Users\ivand\source\repos\ComputerFactory\ComputerFactory\bin\Debug\net8.0\ComputerFactory.exe
+C:\Users\ivand\source\repos\ComputerFactory\ComputerFactory\bin\Debug\net8.0\ComputerFactory.deps.json
+C:\Users\ivand\source\repos\ComputerFactory\ComputerFactory\bin\Debug\net8.0\ComputerFactory.runtimeconfig.json
+C:\Users\ivand\source\repos\ComputerFactory\ComputerFactory\bin\Debug\net8.0\ComputerFactory.dll
+C:\Users\ivand\source\repos\ComputerFactory\ComputerFactory\bin\Debug\net8.0\ComputerFactory.pdb
+C:\Users\ivand\source\repos\ComputerFactory\ComputerFactory\obj\Debug\net8.0\ComputerFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\source\repos\ComputerFactory\ComputerFactory\obj\Debug\net8.0\ComputerFactory.AssemblyInfoInputs.cache
+C:\Users\ivand\source\repos\ComputerFactory\ComputerFactory\obj\Debug\net8.0\ComputerFactory.AssemblyInfo.cs
+C:\Users\ivand\source\repos\ComputerFactory\ComputerFactory\obj\Debug\net8.0\ComputerFactory.csproj.CoreCompileInputs.cache
+C:\Users\ivand\source\repos\ComputerFactory\ComputerFactory\obj\Debug\net8.0\ComputerFactory.dll
+C:\Users\ivand\source\repos\ComputerFactory\ComputerFactory\obj\Debug\net8.0\refint\ComputerFactory.dll
+C:\Users\ivand\source\repos\ComputerFactory\ComputerFactory\obj\Debug\net8.0\ComputerFactory.pdb
+C:\Users\ivand\source\repos\ComputerFactory\ComputerFactory\obj\Debug\net8.0\ComputerFactory.genruntimeconfig.cache
+C:\Users\ivand\source\repos\ComputerFactory\ComputerFactory\obj\Debug\net8.0\ref\ComputerFactory.dll

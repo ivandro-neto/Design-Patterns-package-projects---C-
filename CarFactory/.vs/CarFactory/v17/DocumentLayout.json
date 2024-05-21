@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivand\\source\\repos\\CarFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB632DF-7578-470D-B70D-C31D2B6ED451}|CarFactory\\CarFactory.csproj|c:\\users\\ivand\\source\\repos\\carfactory\\carfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB632DF-7578-470D-B70D-C31D2B6ED451}|CarFactory\\CarFactory.csproj|solutionrelative:carfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivand\\source\\repos\\CarFactory\\CarFactory\\Program.cs",
+              "RelativeDocumentMoniker": "CarFactory\\Program.cs",
+              "ToolTip": "C:\\Users\\ivand\\source\\repos\\CarFactory\\CarFactory\\Program.cs",
+              "RelativeToolTip": "CarFactory\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAFIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:05:31.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

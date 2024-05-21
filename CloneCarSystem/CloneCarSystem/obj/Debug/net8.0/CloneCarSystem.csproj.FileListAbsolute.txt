@@ -1,0 +1,14 @@
+C:\Users\ivand\source\repos\CloneCarSystem\CloneCarSystem\obj\Debug\net8.0\CloneCarSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\source\repos\CloneCarSystem\CloneCarSystem\obj\Debug\net8.0\CloneCarSystem.AssemblyInfoInputs.cache
+C:\Users\ivand\source\repos\CloneCarSystem\CloneCarSystem\obj\Debug\net8.0\CloneCarSystem.AssemblyInfo.cs
+C:\Users\ivand\source\repos\CloneCarSystem\CloneCarSystem\obj\Debug\net8.0\CloneCarSystem.csproj.CoreCompileInputs.cache
+C:\Users\ivand\source\repos\CloneCarSystem\CloneCarSystem\bin\Debug\net8.0\CloneCarSystem.exe
+C:\Users\ivand\source\repos\CloneCarSystem\CloneCarSystem\bin\Debug\net8.0\CloneCarSystem.deps.json
+C:\Users\ivand\source\repos\CloneCarSystem\CloneCarSystem\bin\Debug\net8.0\CloneCarSystem.runtimeconfig.json
+C:\Users\ivand\source\repos\CloneCarSystem\CloneCarSystem\bin\Debug\net8.0\CloneCarSystem.dll
+C:\Users\ivand\source\repos\CloneCarSystem\CloneCarSystem\bin\Debug\net8.0\CloneCarSystem.pdb
+C:\Users\ivand\source\repos\CloneCarSystem\CloneCarSystem\obj\Debug\net8.0\CloneCarSystem.dll
+C:\Users\ivand\source\repos\CloneCarSystem\CloneCarSystem\obj\Debug\net8.0\refint\CloneCarSystem.dll
+C:\Users\ivand\source\repos\CloneCarSystem\CloneCarSystem\obj\Debug\net8.0\CloneCarSystem.pdb
+C:\Users\ivand\source\repos\CloneCarSystem\CloneCarSystem\obj\Debug\net8.0\CloneCarSystem.genruntimeconfig.cache
+C:\Users\ivand\source\repos\CloneCarSystem\CloneCarSystem\obj\Debug\net8.0\ref\CloneCarSystem.dll

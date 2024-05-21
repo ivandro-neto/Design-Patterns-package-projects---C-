@@ -1,0 +1,14 @@
+C:\Users\ivand\source\repos\DisplayProductSystem\DisplayProductSystem\bin\Debug\net8.0\DisplayProductSystem.exe
+C:\Users\ivand\source\repos\DisplayProductSystem\DisplayProductSystem\bin\Debug\net8.0\DisplayProductSystem.deps.json
+C:\Users\ivand\source\repos\DisplayProductSystem\DisplayProductSystem\bin\Debug\net8.0\DisplayProductSystem.runtimeconfig.json
+C:\Users\ivand\source\repos\DisplayProductSystem\DisplayProductSystem\bin\Debug\net8.0\DisplayProductSystem.dll
+C:\Users\ivand\source\repos\DisplayProductSystem\DisplayProductSystem\bin\Debug\net8.0\DisplayProductSystem.pdb
+C:\Users\ivand\source\repos\DisplayProductSystem\DisplayProductSystem\obj\Debug\net8.0\DisplayProductSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\source\repos\DisplayProductSystem\DisplayProductSystem\obj\Debug\net8.0\DisplayProductSystem.AssemblyInfoInputs.cache
+C:\Users\ivand\source\repos\DisplayProductSystem\DisplayProductSystem\obj\Debug\net8.0\DisplayProductSystem.AssemblyInfo.cs
+C:\Users\ivand\source\repos\DisplayProductSystem\DisplayProductSystem\obj\Debug\net8.0\DisplayProductSystem.csproj.CoreCompileInputs.cache
+C:\Users\ivand\source\repos\DisplayProductSystem\DisplayProductSystem\obj\Debug\net8.0\DisplayProductSystem.dll
+C:\Users\ivand\source\repos\DisplayProductSystem\DisplayProductSystem\obj\Debug\net8.0\refint\DisplayProductSystem.dll
+C:\Users\ivand\source\repos\DisplayProductSystem\DisplayProductSystem\obj\Debug\net8.0\DisplayProductSystem.pdb
+C:\Users\ivand\source\repos\DisplayProductSystem\DisplayProductSystem\obj\Debug\net8.0\DisplayProductSystem.genruntimeconfig.cache
+C:\Users\ivand\source\repos\DisplayProductSystem\DisplayProductSystem\obj\Debug\net8.0\ref\DisplayProductSystem.dll

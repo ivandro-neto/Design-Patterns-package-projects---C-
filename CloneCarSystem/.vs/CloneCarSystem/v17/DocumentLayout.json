@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivand\\source\\repos\\CloneCarSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{749359CB-E5C0-48A8-B36C-A7DEE3A5B718}|CloneCarSystem\\CloneCarSystem.csproj|c:\\users\\ivand\\source\\repos\\clonecarsystem\\clonecarsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749359CB-E5C0-48A8-B36C-A7DEE3A5B718}|CloneCarSystem\\CloneCarSystem.csproj|solutionrelative:clonecarsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749359CB-E5C0-48A8-B36C-A7DEE3A5B718}|CloneCarSystem\\CloneCarSystem.csproj|c:\\users\\ivand\\source\\repos\\clonecarsystem\\clonecarsystem\\clonecarsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{749359CB-E5C0-48A8-B36C-A7DEE3A5B718}|CloneCarSystem\\CloneCarSystem.csproj|solutionrelative:clonecarsystem\\clonecarsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CloneCarSystem",
+              "DocumentMoniker": "C:\\Users\\ivand\\source\\repos\\CloneCarSystem\\CloneCarSystem\\CloneCarSystem.csproj",
+              "RelativeDocumentMoniker": "CloneCarSystem\\CloneCarSystem.csproj",
+              "ToolTip": "C:\\Users\\ivand\\source\\repos\\CloneCarSystem\\CloneCarSystem\\CloneCarSystem.csproj",
+              "RelativeToolTip": "CloneCarSystem\\CloneCarSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-20T19:38:28.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivand\\source\\repos\\CloneCarSystem\\CloneCarSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CloneCarSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ivand\\source\\repos\\CloneCarSystem\\CloneCarSystem\\Program.cs",
+              "RelativeToolTip": "CloneCarSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T18:24:35.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

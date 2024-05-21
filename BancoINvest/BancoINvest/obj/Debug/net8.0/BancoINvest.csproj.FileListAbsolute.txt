@@ -1,0 +1,14 @@
+C:\Users\ivand\source\repos\BancoINvest\BancoINvest\bin\Debug\net8.0\BancoINvest.exe
+C:\Users\ivand\source\repos\BancoINvest\BancoINvest\bin\Debug\net8.0\BancoINvest.deps.json
+C:\Users\ivand\source\repos\BancoINvest\BancoINvest\bin\Debug\net8.0\BancoINvest.runtimeconfig.json
+C:\Users\ivand\source\repos\BancoINvest\BancoINvest\bin\Debug\net8.0\BancoINvest.dll
+C:\Users\ivand\source\repos\BancoINvest\BancoINvest\bin\Debug\net8.0\BancoINvest.pdb
+C:\Users\ivand\source\repos\BancoINvest\BancoINvest\obj\Debug\net8.0\BancoINvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\source\repos\BancoINvest\BancoINvest\obj\Debug\net8.0\BancoINvest.AssemblyInfoInputs.cache
+C:\Users\ivand\source\repos\BancoINvest\BancoINvest\obj\Debug\net8.0\BancoINvest.AssemblyInfo.cs
+C:\Users\ivand\source\repos\BancoINvest\BancoINvest\obj\Debug\net8.0\BancoINvest.csproj.CoreCompileInputs.cache
+C:\Users\ivand\source\repos\BancoINvest\BancoINvest\obj\Debug\net8.0\BancoINvest.dll
+C:\Users\ivand\source\repos\BancoINvest\BancoINvest\obj\Debug\net8.0\refint\BancoINvest.dll
+C:\Users\ivand\source\repos\BancoINvest\BancoINvest\obj\Debug\net8.0\BancoINvest.pdb
+C:\Users\ivand\source\repos\BancoINvest\BancoINvest\obj\Debug\net8.0\BancoINvest.genruntimeconfig.cache
+C:\Users\ivand\source\repos\BancoINvest\BancoINvest\obj\Debug\net8.0\ref\BancoINvest.dll

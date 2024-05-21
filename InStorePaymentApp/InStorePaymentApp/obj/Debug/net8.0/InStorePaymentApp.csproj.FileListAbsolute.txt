@@ -1,0 +1,14 @@
+C:\Users\ivand\source\repos\InStorePaymentApp\InStorePaymentApp\bin\Debug\net8.0\InStorePaymentApp.exe
+C:\Users\ivand\source\repos\InStorePaymentApp\InStorePaymentApp\bin\Debug\net8.0\InStorePaymentApp.deps.json
+C:\Users\ivand\source\repos\InStorePaymentApp\InStorePaymentApp\bin\Debug\net8.0\InStorePaymentApp.runtimeconfig.json
+C:\Users\ivand\source\repos\InStorePaymentApp\InStorePaymentApp\bin\Debug\net8.0\InStorePaymentApp.dll
+C:\Users\ivand\source\repos\InStorePaymentApp\InStorePaymentApp\bin\Debug\net8.0\InStorePaymentApp.pdb
+C:\Users\ivand\source\repos\InStorePaymentApp\InStorePaymentApp\obj\Debug\net8.0\InStorePaymentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\source\repos\InStorePaymentApp\InStorePaymentApp\obj\Debug\net8.0\InStorePaymentApp.AssemblyInfoInputs.cache
+C:\Users\ivand\source\repos\InStorePaymentApp\InStorePaymentApp\obj\Debug\net8.0\InStorePaymentApp.AssemblyInfo.cs
+C:\Users\ivand\source\repos\InStorePaymentApp\InStorePaymentApp\obj\Debug\net8.0\InStorePaymentApp.csproj.CoreCompileInputs.cache
+C:\Users\ivand\source\repos\InStorePaymentApp\InStorePaymentApp\obj\Debug\net8.0\InStorePaymentApp.dll
+C:\Users\ivand\source\repos\InStorePaymentApp\InStorePaymentApp\obj\Debug\net8.0\refint\InStorePaymentApp.dll
+C:\Users\ivand\source\repos\InStorePaymentApp\InStorePaymentApp\obj\Debug\net8.0\InStorePaymentApp.pdb
+C:\Users\ivand\source\repos\InStorePaymentApp\InStorePaymentApp\obj\Debug\net8.0\InStorePaymentApp.genruntimeconfig.cache
+C:\Users\ivand\source\repos\InStorePaymentApp\InStorePaymentApp\obj\Debug\net8.0\ref\InStorePaymentApp.dll

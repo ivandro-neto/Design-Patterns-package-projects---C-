@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageApp", "ImageApp\ImageApp.csproj", "{F9154AD5-9091-438F-9780-298C5F8EEFF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9154AD5-9091-438F-9780-298C5F8EEFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9154AD5-9091-438F-9780-298C5F8EEFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9154AD5-9091-438F-9780-298C5F8EEFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9154AD5-9091-438F-9780-298C5F8EEFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A1E0CE7-A393-441B-9C06-88C28AA5822A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\ivand\source\repos\TicTacToeGame\TicTacToeGame\bin\Release\net8.0\TicTacToeGame.exe
+C:\Users\ivand\source\repos\TicTacToeGame\TicTacToeGame\bin\Release\net8.0\TicTacToeGame.deps.json
+C:\Users\ivand\source\repos\TicTacToeGame\TicTacToeGame\bin\Release\net8.0\TicTacToeGame.runtimeconfig.json
+C:\Users\ivand\source\repos\TicTacToeGame\TicTacToeGame\bin\Release\net8.0\TicTacToeGame.dll
+C:\Users\ivand\source\repos\TicTacToeGame\TicTacToeGame\bin\Release\net8.0\TicTacToeGame.pdb
+C:\Users\ivand\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\net8.0\TicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\net8.0\TicTacToeGame.AssemblyInfoInputs.cache
+C:\Users\ivand\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\net8.0\TicTacToeGame.AssemblyInfo.cs
+C:\Users\ivand\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\net8.0\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\ivand\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\net8.0\TicTacToeGame.dll
+C:\Users\ivand\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\net8.0\refint\TicTacToeGame.dll
+C:\Users\ivand\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\net8.0\TicTacToeGame.pdb
+C:\Users\ivand\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\net8.0\TicTacToeGame.genruntimeconfig.cache
+C:\Users\ivand\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\net8.0\ref\TicTacToeGame.dll

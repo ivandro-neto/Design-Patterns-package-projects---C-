@@ -1,0 +1,14 @@
+C:\Users\ivand\source\repos\StoreMS\StoreMS\bin\Debug\net8.0\StoreMS.exe
+C:\Users\ivand\source\repos\StoreMS\StoreMS\bin\Debug\net8.0\StoreMS.deps.json
+C:\Users\ivand\source\repos\StoreMS\StoreMS\bin\Debug\net8.0\StoreMS.runtimeconfig.json
+C:\Users\ivand\source\repos\StoreMS\StoreMS\bin\Debug\net8.0\StoreMS.dll
+C:\Users\ivand\source\repos\StoreMS\StoreMS\bin\Debug\net8.0\StoreMS.pdb
+C:\Users\ivand\source\repos\StoreMS\StoreMS\obj\Debug\net8.0\StoreMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\source\repos\StoreMS\StoreMS\obj\Debug\net8.0\StoreMS.AssemblyInfoInputs.cache
+C:\Users\ivand\source\repos\StoreMS\StoreMS\obj\Debug\net8.0\StoreMS.AssemblyInfo.cs
+C:\Users\ivand\source\repos\StoreMS\StoreMS\obj\Debug\net8.0\StoreMS.csproj.CoreCompileInputs.cache
+C:\Users\ivand\source\repos\StoreMS\StoreMS\obj\Debug\net8.0\StoreMS.dll
+C:\Users\ivand\source\repos\StoreMS\StoreMS\obj\Debug\net8.0\refint\StoreMS.dll
+C:\Users\ivand\source\repos\StoreMS\StoreMS\obj\Debug\net8.0\StoreMS.pdb
+C:\Users\ivand\source\repos\StoreMS\StoreMS\obj\Debug\net8.0\StoreMS.genruntimeconfig.cache
+C:\Users\ivand\source\repos\StoreMS\StoreMS\obj\Debug\net8.0\ref\StoreMS.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zLb1WZ9o6WnOd/rk7JMA77EgTIxo0YUkxrqfjU2K5H/VFeFHI36ijMKlMzXfiEN3nGV76h6zX11NuEdKNZBY5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivand\\source\\repos\\BancoINvest\\BancoINvest\\BancoINvest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivand\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ivand\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ivand\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\ivand\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
